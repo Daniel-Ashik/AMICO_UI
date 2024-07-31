@@ -1,0 +1,94 @@
+#atag{
+    color:#006997 ;
+    font-weight: 800;
+    font-size: 20px;
+}
+#atag:hover{
+    color: cadetblue;
+    text-decoration: underline;
+}
+#explain>div>p>span{
+    color: #006997;
+    font-weight: 800;
+}
+#explain>span{
+    color: #006997;
+}
+#bgimg{
+    background-image: url("images/Group\ \(12\).png");
+    
+}
+#imgs>img{
+    width: 20%;
+}
+#topic{
+    color: #006997;
+    font-weight: 700;
+}
+/* #circle{
+    height: 100px;
+} */
+
+#details>img{
+    width: 30%;
+    position: relative;
+}
+#details>span{
+    position: relative;
+    top: 20px;
+    right: 12px;
+    color: #006997;
+    font-weight: 800;
+}
+#details>p{
+    text-align:justify;
+    color: #006997; 
+}
+#figure{
+    display: flex;
+    text-align: justify;
+}
+#footer>p{
+    color: #006997;
+    font-weight: 800;
+}
+#footer>a:link{
+    color: #006997;
+    text-decoration: none;
+    font-weight: 500;
+}
+#footer>a:link:hover{
+    text-decoration: underline;
+    color: #006997;
+}
+#icon{
+    color: #006997;
+}
+#footer>span{
+    color: #006997;
+}
+::placeholder{
+    color: #006997;
+    font-weight: 500;
+}
+#btn{
+    width: 40%;
+    margin-left: 40%;
+}
+hr.line1{
+    border: 5px solid #006997;
+    width: 60%;
+}
+
+@media screen and (max-width:950px){
+    #cellphone{
+        display: none;
+        margin: 0 auto;
+    }
+    
+}
+@media screen and (max-width:1000px){
+    #footer{
+        text-align: center;
+    }
+}

@@ -1,0 +1,89 @@
+#atag{
+    color: #006997;
+}
+#atag:hover{
+    color:cadetblue;
+    text-decoration: underline 3px;
+}
+#home{
+    color: #006997;
+    text-align: justify;
+    margin-left: 7%;
+    text-indent: 50px;
+    position: relative;
+    z-index: 3;
+}
+#homeimage{
+    margin-top: 13%;
+}
+#homeimage2{
+    position: relative;
+    bottom: 60px;
+}
+#agilteam{
+    position: relative;
+}
+#agileteam>p{
+    color: #006997;
+}
+#agile-bottom{
+    position: relative;
+    bottom: 50px;
+}
+#content{
+    text-align: justify;
+}
+#details>img{
+    width: 30%;
+    position: relative;
+}
+#details>span{
+    position: relative;
+    color: #006997;
+    top: 8%;
+    right: 15px;
+}
+#details>p{
+    color: #006997;
+    text-align: justify;
+    text-indent: 50px;
+}
+#footer>p{
+    color: #006997;
+    font-weight: 800;
+    font-size: 23px;
+}
+#footer>a>span{
+    color: #006997;
+    font-weight: 500;
+    font-size: 20px;
+}
+#footer>a{
+    text-decoration: none;
+}
+#icon{
+    color: #006997;
+}
+#footer>span{
+    color: #006997;
+    font-size: 20px;
+    font-weight: 500;
+}
+#btn{
+    background-color: #006997;
+    margin-left: 30%;
+}
+::placeholder{
+    color: #006997;
+    font-weight: 500;
+}
+.line{
+    border: 3px solid #006997;
+}
+@media screen and (max-width:992px){
+    #homeimage2{
+        display: none;
+        margin: 0 auto;
+    }
+    
+}

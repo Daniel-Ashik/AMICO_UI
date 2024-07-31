@@ -1,0 +1,81 @@
+#atag{
+    color: #006997;
+    font-weight: 800;
+}
+#atag:hover{
+    color: cadetblue;
+    text-decoration: underline 3px;
+}
+#firstpage{
+    margin-left:30%;
+    margin-top: 3%;
+}
+#firstpage>span1{
+    color: #006997;
+    font-weight: 500;
+}
+#firstpage>span2{
+    color: #006997;
+    font-weight: 800;
+}
+#bg-image{
+    background-image: url("images/Group\ \(25\).png");
+}
+#imgexplain>p{
+    color: #006997;
+    text-align: justify;
+    text-indent: 50px;
+}
+#images>img{
+    width: 15%;
+}
+#explain>img{
+    width: 30%;
+    position: relative;
+}
+#explain>span{
+    position: relative;
+    color: #006997;
+    top: 10%;
+    right: 4%;
+    font-weight: 800;
+}
+#explain>p{
+    color: #006997;
+    text-align: justify;
+    text-indent: 50px;
+}
+#footer>p{
+    color: #006997;
+    font-weight: 800;
+    font-size: 23px;
+}
+#footer>a>span{
+    color: #006997;
+    font-weight: 500;
+    font-size: 20px;
+}
+#footer>a{
+    text-decoration: none;
+}
+#footer>span{
+    color: #006997;
+    font-size: 20px;
+}
+#icon{
+    color: #006997;
+}
+#btn{
+    background-color: #006997;
+    margin-left: 38%;
+    color: white;
+
+}
+::placeholder{
+    font-weight: 700;
+    color: #006997;
+}
+.line{
+    border: 5px solid #006997;
+    width: 60%;
+}
